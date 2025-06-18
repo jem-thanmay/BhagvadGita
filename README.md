@@ -53,10 +53,10 @@ python3 app.py
 localhost:5000
 ```
 
-### 9. Screenshots of Working App:
+### Screenshots of Working App:
 <img width="1468" alt="Screenshot 2025-06-18 at 15 03 13" src="https://github.com/user-attachments/assets/0d2dbe72-56cf-45a2-b6aa-6e3aaa095e9f" />
 
-### 10. Built With:
+### Built With:
 - OpenAI for LLM & Embeddings
 - LangChain for the framework
 - Srila Prabhupada for Bhagvad Gita As It Is
